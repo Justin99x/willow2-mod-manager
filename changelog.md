@@ -4,6 +4,7 @@
 
 ### Save Options v1.3
 - Fixed issue with newly created characters inheriting options from previously loaded character.
+- Fixed issue of save options from deleted mods preventing other data from loading.
 
 ## v3.7: Meteor Shower
 
