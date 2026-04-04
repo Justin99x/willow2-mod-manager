@@ -103,3 +103,9 @@ ignore = [
 
 [tool.ruff.lint.per-file-ignores]
 "*.pyi" = ["A002", "A003", "D418"]
+
+[dependency-groups]
+dev = [
+    "pyright>=1.1.408",
+    "ruff>=0.15.9",
+]
